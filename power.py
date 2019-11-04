@@ -12,4 +12,4 @@ while not found and i < len(L):
 if found:
  print('at index', i)
 else:
- print(2**X, "not found")
+ print(X, "not found")
